@@ -1,0 +1,62 @@
+*{
+    font-family: Arial;
+}
+.menu{
+    display: flex;
+    background: rgb(130, 0, 0);
+    margin: 15px;
+}
+.menuNav1{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.menuNav2 {
+    display: flex;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 22px;
+    color: rgb(182, 182, 182);
+}
+.menuNav2 p{
+    margin: 0 8px;
+}
+.contentNews {
+    background: rgb(159, 205, 206);
+    display: flex;
+    margin: 15px;
+}
+.contentNewsText h2{
+    margin-top: 30px;
+}
+
+.latestBlocks {
+    display: flex;
+    padding: 15px;
+}
+.otherBlocks {
+    width: 25%;
+    border: 2px solid rgb(128, 128, 128);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 10px;
+}
+.otherBlocks h2 {
+    margin: 10px;
+}
+.otherBlocks p {
+    margin: 0 10px;
+    margin-bottom: 5px;
+}
+button {
+    background-color: rgb(130, 0, 0);
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+.otherBlocks img {
+    width: 100%;
+    height: 250px;
+}
