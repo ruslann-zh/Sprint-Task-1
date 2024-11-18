@@ -67,6 +67,7 @@ a:hover {
 .menuNav1 a:hover {
     background-color: black;
     color: white;
+    border-radius: 5px;
 }
 .otherBlocks img {
     width: 100%;
