@@ -53,8 +53,16 @@
 button {
     background-color: rgb(130, 0, 0);
     color: white;
-    padding: 5px;
     margin: 10px;
+    padding: 5px 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+a:hover {
+    color: rgb(116, 193, 255);
 }
 .otherBlocks img {
     width: 100%;
